@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+trip-palette-screenshot.png
+.DS_Store
